@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap');
+
+.simple-gen {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    font-family: 'Noto Serif', serif;
+}
+
+.simple-orient {
+    flex-direction: column;
+}
+
+.simple-inp {
+    width: 300px;
+    height: 30px;
+    color:rgb(99, 0, 165);
+}
